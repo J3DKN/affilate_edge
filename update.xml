@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid="opkdcbmebbemnbngcjbpbindlbgnfpjk">
-    <updatecheck codebase="https://github.com/J3DKN/affilate_edge/amazon.crx" version="1.2" />
+    <updatecheck codebase="https://github.com/J3DKN/affilate_edge/raw/refs/heads/main/amazon.crx" version="1.2" />
     <!-- Erhöhe die 'version' hier jedes Mal, wenn du eine neue .crx hochlädst -->
   </app>
 </gupdate>
