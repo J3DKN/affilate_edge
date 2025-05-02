@@ -2,6 +2,7 @@
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid="lblefbgoaakdkkhepcnbcnipbdgjljbe">
     <updatecheck codebase="https://j3dkn.github.io/affilate_edge/amazon.crx" version="1.2" />
-    <!-- Erhöhe die 'version' hier jedes Mal, wenn du eine neue .crx hochlädst -->
+    <!-- WICHTIG: Stelle sicher, dass 'version="1.2"' exakt mit der Version in deiner manifest.json übereinstimmt! -->
+    <!-- WICHTIG: Stelle sicher, dass 'codebase="..."' auf die korrekte URL deiner .crx-Datei zeigt (hier amazon.crx)! -->
   </app>
 </gupdate>
